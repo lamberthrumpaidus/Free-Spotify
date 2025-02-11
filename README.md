@@ -32,21 +32,6 @@ Sebelum memulai, pastikan Anda telah menginstal:
    spicetify init
    ```
 
-5. **Pemasangan Tema**:
-   - Unduh tema yang Anda inginkan dari repositori tema Spicetify.
-   - Letakkan tema yang diunduh di direktori `themes/` dalam folder instalasi Spicetify.
-   - Terapkan tema dengan menjalankan:
-     ```powershell
-     spicetify apply
-     ```
-
-6. **Menjalankan Skrip Kustom**:
-   - Tambahkan skrip kustom ke direktori `Extensions/` dalam folder instalasi Spicetify.
-   - Terapkan skrip dengan menjalankan:
-     ```powershell
-     spicetify apply
-     ```
-
 ## Hubungi Saya
 
 Jika Anda memiliki pertanyaan atau perlu bantuan lebih lanjut, jangan ragu untuk menghubungi [saya](https://github.com/lamberthrumpaidus).
